@@ -3,11 +3,11 @@
 [![Official Website](https://img.shields.io/badge/Official%20Website-vibero.dev-blue)](https://vibero.dev)
 [![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-orange)](#)
 
-![Vibero Overview](https://pub-f2fee4255e4c436c9d7e8654687ad8b9.r2.dev/viber-overview.png)
-
 The world's first vibe-reading AI tool based on Zotero.
 
-**Turbocharge Your Reading: Faster, yet Deeper.**
+**Turbocharge Your Reading: Faster, yet Deeper.
+
+![Vibero Overview](https://pub-f2fee4255e4c436c9d7e8654687ad8b9.r2.dev/viber-overview.png)
 
 ## ✨ What is Vibero?
 
